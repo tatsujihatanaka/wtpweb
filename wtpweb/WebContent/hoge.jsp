@@ -8,5 +8,6 @@
 </head>
 <body>
   <%= new java.util.Date() %>
+<div>Gitテスト用の修正</div>
 </body>
 </html>
