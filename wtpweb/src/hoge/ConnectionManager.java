@@ -8,6 +8,7 @@ import java.sql.Statement;
 
 /**
  * シンプルなコネクション管理クラス
+ * Gitテスト三回目のコミット
  */
 public class ConnectionManager {
 
